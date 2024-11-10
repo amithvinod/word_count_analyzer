@@ -1,8 +1,10 @@
 
 # Word Count Analyzer
 
-# For installing the application on your android device 
-Download the apk from this [link](https://drive.google.com/file/d/1xOnXq_Nib-L9DgRQ5EtqtA_2zz72Bg_6/view?usp=sharing)
+
+## Download the apk from this [link](https://drive.google.com/file/d/1xOnXq_Nib-L9DgRQ5EtqtA_2zz72Bg_6/view?usp=sharing)
+
+
 
 A full-stack web application that allows users to analyze the word frequency in any given URL. The project consists of two main parts:
 
